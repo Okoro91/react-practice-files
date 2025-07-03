@@ -1,6 +1,6 @@
 import React from "react";
 
-const Mind = () => {
+const Toggle = () => {
   const [isGoingOut, setIsGoingOut] = React.useState(true);
 
   const toggle = () => {
@@ -17,4 +17,4 @@ const Mind = () => {
   );
 };
 
-export default Mind;
+export default Toggle;

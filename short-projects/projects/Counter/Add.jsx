@@ -11,7 +11,7 @@ const Add = () => {
   };
   return (
     <>
-      <h1>How many times will Bob say "state" in this section?</h1>
+      <h1>How many times will Ali say "state" in this section?</h1>
       <div className="counter">
         <button className="minus" onClick={minus} aria-label="Decrease count">
           –
